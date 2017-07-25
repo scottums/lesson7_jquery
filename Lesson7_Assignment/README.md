@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 24, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Scott Campbell)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Adding jQuery code that displays the elements containing a recipe’s ingredients and instructions when a user clicks the associated headers. )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://scottums.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learning how to access elements using jQuery syntax.)
+2. (Learning how to use built-in jQuery syntax.)
+3. (Learning how to manipulate displays through the JavaScript Console Pane.)
 
